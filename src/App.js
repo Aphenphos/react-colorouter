@@ -3,7 +3,6 @@ import './App.css';
 import Main from './components/Main/Main';
 import { BrowserRouter, NavLink, Route, Switch } from 'react-router-dom';
 import NotFound from './components/NotFound';
-import Navbar from './components/Navbar/Navbar';
 
 function App() {
   return (
